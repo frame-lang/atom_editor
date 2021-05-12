@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-u": "framepiler:UML",
+    "ctrl-alt-n": "framepiler:nextTarget",
+    "ctrl-alt-p": "framepiler:previousTarget"
+  }
+}

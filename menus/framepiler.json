@@ -1,0 +1,79 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Framepile",
+        "submenu": [
+          {
+            "label": "UML",
+            "command": "framepiler:UML"
+          },
+          {
+            "label": "C++",
+            "command": "framepiler:C++"
+          },
+          {
+            "label": "C#",
+            "command": "framepiler:C#"
+          },
+          {
+            "label": "GDScript",
+            "command": "framepiler:GDScript"
+          },
+          {
+            "label": "Java",
+            "command": "framepiler:Java"
+          },
+          {
+            "label": "JavaScript",
+            "command": "framepiler:JavaScript"
+          },
+          {
+            "label": "Python",
+            "command": "framepiler:Python"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Framepile",
+          "submenu": [
+            {
+              "label": "UML",
+              "command": "framepiler:UML"
+            },
+            {
+              "label": "C++",
+              "command": "framepiler:C++"
+            },
+            {
+              "label": "C#",
+              "command": "framepiler:C#"
+            },
+            {
+              "label": "GDScript",
+              "command": "framepiler:GDScript"
+            },
+            {
+              "label": "Java",
+              "command": "framepiler:Java"
+            },
+            {
+              "label": "JavaScript",
+              "command": "framepiler:JavaScript"
+            },
+            {
+              "label": "Python",
+              "command": "framepiler:Python"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

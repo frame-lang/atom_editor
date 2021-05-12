@@ -1,0 +1,18 @@
+{
+  "name": "framepiler",
+  "main": "./lib/framepiler",
+  "version": "0.0.0",
+  "description": "Frame is a simple yet powerful system specification language for defining the dynamic behavior of systems. With Frame notation it is easy to quickly design state machines that comply with core UML statechart concepts through a decidedly advantageous new approach.",
+  "keywords": [],
+  "repository": "https://github.com/atom/framepiler",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "deserializers": {
+    "framepiler/FramepilerView": "createFramepilerView"
+  }
+}
