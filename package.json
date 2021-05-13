@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "description": "Frame is a simple yet powerful system specification language for defining the dynamic behavior of systems. With Frame notation it is easy to quickly design state machines that comply with core UML statechart concepts through a decidedly advantageous new approach.",
   "keywords": [],
-  "repository": "https://github.com/atom/framepiler",
+  "repository": "https://github.com/frame-lang/atom_editor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
