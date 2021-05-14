@@ -1,5 +1,14 @@
 # framepiler package
 
-A short description of your package.
+alpha release
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Install Package:
+
+* From Atom Editor
+  * Open up the Settings View using `Ctrl+,` or go to `Edit -> Preferences`
+  * Move to **Install** tab
+  * Search for **framepiler** package and install
+  * Once it is installed, it will show up in the Settings View under the **Packages** tab
+
+* From Command line
+  * Run `apm install framepiler` in the terminal
