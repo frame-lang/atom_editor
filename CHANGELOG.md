@@ -1,3 +1,9 @@
+## 0.1.1 - Reload Framepiler
+* UML image display improved
+* Framepiler tab display on half of the screen
+* Reload Framepiler tab according to latest editor opened
+* Close Framepler for non Frame Spec files
+
 ## 0.1.0 - First Release
 * Added Basic functionality of Framepiler
 * Display Framepile option in Packages menu and Context menu (Right click of mouse on editor)
