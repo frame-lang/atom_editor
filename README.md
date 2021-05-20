@@ -1,6 +1,27 @@
-# framepiler package
+# The Frame Machine Maker package
 
-alpha release
+Frame is a state machine markdown language and the Frame Machine Maker provides a real-time preview of the UML documentation and code generation of Frame Specs. 
+
+This version of **Machine Maker** generates the following languages:
+
+* C++
+* C#
+* GDScript
+* Java
+* JavaScript
+* Python  
+
+You can learn more about Frame from these resources:
+
+* [Framepiler](https://framepiler.frame-lang.org/) - check out the online version of this plugin, explore the examples and share with the world your Frame'n   
+* [The Official Frame Site](https://frame-lang.org)   
+* [Getting Started With Frame Video](https://youtu.be/MfOIQfuPw30)  
+
+If you would like to find ouot more about Frame join a growing community and connect:
+
+* [Gitter](https://gitter.im/frame-language/community) 
+* [Discord](https://discord.com/invite/CfbU4QCbSD) 
+* [State Machine Reddit (I'm the mod)](https://www.reddit.com/r/statemachines/)
 
 ## Install Package
 
@@ -27,6 +48,6 @@ alpha release
 
 ## Key Mappings for the package
 
-* `Ctrl-Alt-P`: Framepile to UML
-* `Ctrl-Alt-N`: Framepile to next target language
-* `Ctrl-Alt-P`: Framepile to previous target language
+* `Ctrl-Alt-P `: Framepile to UML
+* `Ctrl-Alt-N `: Framepile to next target language
+* `Ctrl-Alt-P `: Framepile to previous target language
