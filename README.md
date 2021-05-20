@@ -13,15 +13,15 @@ This version of **Machine Maker** generates the following languages:
 
 You can learn more about Frame from these resources:
 
-![Framepiler](https://framepiler.frame-lang.org/) - check out the online version of this plugin, explore the examples and share with the world your Frame'n.
-![The Official Frame Site](https://frame-lang.org)
-![Getting Started With Frame Video](https://youtu.be/MfOIQfuPw30)
+[Framepiler](https://framepiler.frame-lang.org/) - check out the online version of this plugin, explore the examples and share with the world your Frame'n.
+[The Official Frame Site](https://frame-lang.org)
+[Getting Started With Frame Video](https://youtu.be/MfOIQfuPw30)
 
 If you would like to find ouot more about Frame join a growing community and connect:
 
-![Gitter](https://gitter.im/frame-language/community)
-![Discord](https://discord.com/invite/CfbU4QCbSD)
-![State Machine Reddit (I'm the mod)](https://www.reddit.com/r/statemachines/)
+[Gitter](https://gitter.im/frame-language/community)
+[Discord](https://discord.com/invite/CfbU4QCbSD)
+[State Machine Reddit (I'm the mod)](https://www.reddit.com/r/statemachines/)
 
 
 
