@@ -17,7 +17,7 @@ You can learn more about Frame from these resources:
 * [The Official Frame Site](https://frame-lang.org)   
 * [Getting Started With Frame Video](https://youtu.be/MfOIQfuPw30)  
 
-If you would like to find ouot more about Frame join a growing community and connect:
+If you would like to find out more about Frame join our growing community and connect:
 
 * [Gitter](https://gitter.im/frame-language/community) 
 * [Discord](https://discord.com/invite/CfbU4QCbSD) 
