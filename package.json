@@ -1,5 +1,5 @@
 {
-  "name": "framepiler",
+  "name": "frame-machine-maker",
   "main": "./lib/frame-machine-maker",
   "version": "0.1.3",
   "description": "Frame is a simple yet powerful system specification language for defining the dynamic behavior of systems. With Frame notation it is easy to quickly design state machines that comply with core UML statechart concepts through a decidedly advantageous new approach.",
