@@ -40,11 +40,11 @@ If you would like to find ouot more about Frame join a growing community and con
       * Menu: `File > Settings`
       * Command Palette: Open by `Ctrl+Shift+P` and search `settings-view:open`
   * Move to **Install** tab
-  * Search for **framepiler** package and install
+  * Search for **frame-machine-maker** package and install
   * Once it is installed, it will show up in the Settings View under the **Packages** tab
 
 * From Command line
-  * Run `apm install framepiler` in the terminal
+  * Run `apm install frame-machine-maker` in the terminal
 
 ## Key Mappings for the package
 

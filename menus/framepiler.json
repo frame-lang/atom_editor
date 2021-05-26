@@ -6,31 +6,31 @@
         "submenu": [
           {
             "label": "UML",
-            "command": "framepiler:UML"
+            "command": "frame-machine-maker:UML"
           },
           {
             "label": "C++",
-            "command": "framepiler:C++"
+            "command": "frame-machine-maker:C++"
           },
           {
             "label": "C#",
-            "command": "framepiler:C#"
+            "command": "frame-machine-maker:C#"
           },
           {
             "label": "GDScript",
-            "command": "framepiler:GDScript"
+            "command": "frame-machine-maker:GDScript"
           },
           {
             "label": "Java",
-            "command": "framepiler:Java"
+            "command": "frame-machine-maker:Java"
           },
           {
             "label": "JavaScript",
-            "command": "framepiler:JavaScript"
+            "command": "frame-machine-maker:JavaScript"
           },
           {
             "label": "Python",
-            "command": "framepiler:Python"
+            "command": "frame-machine-maker:Python"
           }
         ]
       }
@@ -45,31 +45,31 @@
           "submenu": [
             {
               "label": "UML",
-              "command": "framepiler:UML"
+              "command": "frame-machine-maker:UML"
             },
             {
               "label": "C++",
-              "command": "framepiler:C++"
+              "command": "frame-machine-maker:C++"
             },
             {
               "label": "C#",
-              "command": "framepiler:C#"
+              "command": "frame-machine-maker:C#"
             },
             {
               "label": "GDScript",
-              "command": "framepiler:GDScript"
+              "command": "frame-machine-maker:GDScript"
             },
             {
               "label": "Java",
-              "command": "framepiler:Java"
+              "command": "frame-machine-maker:Java"
             },
             {
               "label": "JavaScript",
-              "command": "framepiler:JavaScript"
+              "command": "frame-machine-maker:JavaScript"
             },
             {
               "label": "Python",
-              "command": "framepiler:Python"
+              "command": "frame-machine-maker:Python"
             }
           ]
         }

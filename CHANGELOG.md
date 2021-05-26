@@ -1,11 +1,25 @@
-## 0.1.1 - Reload Framepiler
+## 0.1.4
+* Rename packkage name to **frame-machine-maker**
+
+## 0.1.3
+* Bug fixed: When we are on Settings tab and Framepile it gived error in console.
+* If Frame Machine Maker tab is opened and we move to Settings tab Frame Machine Maker is still visible.
+* Handle Empty UML case
+* Handle Error with Frame Spec other than "Terminating with errors"
+* In case of empty Frame Spec File show Frame Webpage instead
+
+## 0.1.2 - Updated README
+* Update README.md file
+* Display Error deatils when error while loading UML
+
+## 0.1.1 - Reload Frame Machine Maker
 * UML image display improved
-* Framepiler tab display on half of the screen
-* Reload Framepiler tab according to latest editor opened
+* Frame Machine Maker tab display on half of the screen
+* Reload Frame Machine Maker tab according to latest editor opened
 * Close Framepler for non Frame Spec files
 
 ## 0.1.0 - First Release
-* Added Basic functionality of Framepiler
+* Added Basic functionality of Frame Machine Maker
 * Display Framepile option in Packages menu and Context menu (Right click of mouse on editor)
 * Open a pane/window if we framepile a Frame Specification file
 * Error handling: Close preview pane and display error notification
