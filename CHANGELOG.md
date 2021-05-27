@@ -1,7 +1,11 @@
-## 0.1.4
-* Rename packkage name to **frame-machine-maker**
+## 0.1.5 - Handle opening Frame Machine Maker window
+* If we manually close the window then while saving or switch to another tab window should not open.
+* Added new webpage for Empty Frame Spec files
 
-## 0.1.3
+## 0.1.4 - Rename package name
+* Rename package name to **frame-machine-maker**
+
+## 0.1.3 - Fixed known bugs
 * Bug fixed: When we are on Settings tab and Framepile it gived error in console.
 * If Frame Machine Maker tab is opened and we move to Settings tab Frame Machine Maker is still visible.
 * Handle Empty UML case
