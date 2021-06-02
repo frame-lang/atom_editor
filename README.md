@@ -9,7 +9,8 @@ This version of **Machine Maker** generates the following languages:
 * GDScript
 * Java
 * JavaScript
-* Python  
+* Python
+* Rust
 
 You can learn more about Frame from these resources:
 
