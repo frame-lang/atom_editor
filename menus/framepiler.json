@@ -31,6 +31,10 @@
           {
             "label": "Python",
             "command": "frame-machine-maker:Python"
+          },
+          {
+            "label": "Rust",
+            "command": "frame-machine-maker:Rust"
           }
         ]
       }
@@ -70,6 +74,10 @@
             {
               "label": "Python",
               "command": "frame-machine-maker:Python"
+            },
+            {
+              "label": "Rust",
+              "command": "frame-machine-maker:Rust"
             }
           ]
         }
