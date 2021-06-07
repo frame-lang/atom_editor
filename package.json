@@ -10,7 +10,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1"
   },
   "deserializers": {
     "frame-machine-maker/FrameMachineMakerView": "createView"
