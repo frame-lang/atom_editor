@@ -1,3 +1,7 @@
+## 0.2.0 - Integrate new transpiler version
+* Updated framec executable version to v0.4.0 for all platforms
+* Added Rust as a target language 
+
 ## 0.1.5 - Handle opening Frame Machine Maker window
 * If we manually close the window then while saving or switch to another tab window should not open.
 * Added new webpage for Empty Frame Spec files
