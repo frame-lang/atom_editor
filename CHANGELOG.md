@@ -1,3 +1,8 @@
+## 0.3.0 - Write framepiled files on disk and Copy functionality
+* When framepiling any file, framepiled file will save on disk at same folder as source file with appropiate extension.
+* Added a Copy button on Machine Maker view. With the help of that, we can copy both image and code.
+* Bug fixed: Switching to a non-frame file permanently removes MM tab 
+
 ## 0.2.0 - Integrate new transpiler version
 * Updated framec executable version to v0.4.0 for all platforms
 * Added Rust as a target language 
