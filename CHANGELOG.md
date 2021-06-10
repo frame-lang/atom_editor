@@ -1,5 +1,5 @@
 ## 0.3.0 - Write framepiled files on disk and Copy functionality
-* When framepiling any file, framepiled file will save on disk at same folder as source file with appropiate extension.
+* When framepiling any file, framepiled file will save on disk at same folder as source file with appropriate extension.
 * Added a Copy button on Machine Maker view. With the help of that, we can copy both image and code.
 * Bug fixed: Switching to a non-frame file permanently removes MM tab 
 
