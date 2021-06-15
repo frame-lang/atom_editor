@@ -1,3 +1,9 @@
+## 0.3.1 - Save button functionality
+* Add button on MM View (Machine Maker View) for save file to disk.
+* Bug fixed
+  * Scroll issue with UMLs
+  * Copy to clipboard for UMLs on MAC (Finder > Edit > Show Clipboard)
+
 ## 0.3.0 - Write framepiled files on disk and Copy functionality
 * When framepiling any file, framepiled file will save on disk at same folder as source file with appropriate extension.
 * Added a Copy button on Machine Maker view. With the help of that, we can copy both image and code.
