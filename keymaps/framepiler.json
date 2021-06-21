@@ -2,6 +2,10 @@
   "atom-workspace": {
     "ctrl-alt-u": "frame-machine-maker:UML",
     "ctrl-alt-n": "frame-machine-maker:nextTarget",
-    "ctrl-alt-p": "frame-machine-maker:previousTarget"
+    "ctrl-alt-p": "frame-machine-maker:previousTarget",
+    "alt-=": "frame-machine-maker:zoom-in",
+    "alt--": "frame-machine-maker:zoom-out",
+    "alt-+": "frame-machine-maker:zoom-in",
+    "alt-_": "frame-machine-maker:zoom-out"
   }
 }
