@@ -1,3 +1,6 @@
+## 0.3.2 - Integrate new transpiler version 0.4.1
+  * Added new transpiler version 0.4.1
+
 ## 0.3.1 - Save button functionality
 * Add button on MM View (Machine Maker View) for save file to disk.
 * Bug fixed
