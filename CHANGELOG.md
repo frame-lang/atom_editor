@@ -1,5 +1,8 @@
-## 0.3.2 - Integrate new transpiler version 0.4.1
+## 0.3.2 - Integrate new transpiler version 0.4.1 and UML Resize
   * Added new transpiler version 0.4.1
+  * Zoom in and Zoom out functionality for UML images. Shortcuts:
+    * Mac: Options with + (Zoom-in), Options with - (Zoom-out)
+    * Windows/Linux: Alt with + (Zoom-in), Alt with - (Zoom-out)
 
 ## 0.3.1 - Save button functionality
 * Add button on MM View (Machine Maker View) for save file to disk.
