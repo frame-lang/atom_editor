@@ -49,6 +49,8 @@ If you would like to find out more about Frame join our growing community and co
 
 ## Key Mappings for the package
 
-* `Ctrl-Alt-P `: Framepile to UML
-* `Ctrl-Alt-N `: Framepile to next target language
-* `Ctrl-Alt-P `: Framepile to previous target language
+* `Ctrl-Alt-P` : Framepile to UML
+* `Ctrl-Alt-N` : Framepile to next target language
+* `Ctrl-Alt-P` : Framepile to previous target language
+* `Alt-+` : UML image Zoom-in (Worked only when you are on the UML target language)
+* `Alt--` : UML image Zoom-out (Worked only when you are on the UML target language)
