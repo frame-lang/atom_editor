@@ -1,3 +1,6 @@
+## 0.4.0 - Integrate new transpiler version 0.4.3
+  * Added new transpiler version 0.4.3
+
 ## 0.3.2 - Integrate new transpiler version 0.4.1 and UML Resize
   * Added new transpiler version 0.4.1
   * Zoom in and Zoom out functionality for UML images. Shortcuts:
