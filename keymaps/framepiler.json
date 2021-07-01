@@ -6,6 +6,7 @@
     "alt-=": "frame-machine-maker:zoom-in",
     "alt--": "frame-machine-maker:zoom-out",
     "alt-+": "frame-machine-maker:zoom-in",
-    "alt-_": "frame-machine-maker:zoom-out"
+    "alt-_": "frame-machine-maker:zoom-out",
+    "ctrl-alt-c": "frame-machine-maker:loadConfFile"
   }
 }
