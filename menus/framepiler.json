@@ -35,10 +35,6 @@
           {
             "label": "Rust",
             "command": "frame-machine-maker:Rust"
-          },
-          {
-            "label": "Load Config file",
-            "command": "frame-machine-maker:loadConfFile"
           }
         ]
       }
@@ -82,10 +78,6 @@
             {
               "label": "Rust",
               "command": "frame-machine-maker:Rust"
-            },
-            {
-              "label": "Load Config file",
-              "command": "frame-machine-maker:loadConfFile"
             }
           ]
         }
