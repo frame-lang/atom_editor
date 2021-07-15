@@ -12,7 +12,8 @@
   "dependencies": {
     "axios": "^0.21.1",
     "jQuery": "^1.7.4",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "toastr": "^2.1.4"
   },
   "deserializers": {
     "frame-machine-maker/FrameMachineMakerView": "createView"

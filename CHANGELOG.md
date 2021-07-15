@@ -1,3 +1,6 @@
+## 0.4.1 - Copy/Save alert
+  * Alert popups for copy and save either the UML or any other output.
+
 ## 0.4.0 - Integrate new transpiler version 0.4.3
   * Added new transpiler version 0.4.3
 
