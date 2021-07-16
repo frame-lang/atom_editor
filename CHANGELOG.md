@@ -1,3 +1,6 @@
+## 0.4.2 - Bug fixed: Handle file names with space(s)
+  * Handled the case where the frame spec has single or multiple space in it.
+
 ## 0.4.1 - Copy/Save alert
   * Alert popups for copy and save either the UML or any other output.
 
