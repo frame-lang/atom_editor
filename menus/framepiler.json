@@ -21,6 +21,10 @@
             "command": "frame-machine-maker:GDScript"
           },
           {
+            "label": "Go",
+            "command": "frame-machine-maker:Go"
+          },
+          {
             "label": "Java",
             "command": "frame-machine-maker:Java"
           },
@@ -35,10 +39,6 @@
           {
             "label": "Rust",
             "command": "frame-machine-maker:Rust"
-          },
-          {
-            "label": "Go",
-            "command": "frame-machine-maker:Go"
           }
         ]
       }
@@ -68,6 +68,10 @@
               "command": "frame-machine-maker:GDScript"
             },
             {
+              "label": "Go",
+              "command": "frame-machine-maker:Go"
+            },
+            {
               "label": "Java",
               "command": "frame-machine-maker:Java"
             },
@@ -82,10 +86,6 @@
             {
               "label": "Rust",
               "command": "frame-machine-maker:Rust"
-            },
-            {
-              "label": "Go",
-              "command": "frame-machine-maker:Go"
             }
           ]
         }

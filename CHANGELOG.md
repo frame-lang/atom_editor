@@ -1,3 +1,6 @@
+## 0.5.1 - Arranged target options alphabetically
+  * Rearranged target options
+
 ## 0.5.0 - Go is added as target
   * Go Lang is added as a target option.
   * Transpiler version 0.7.5 is added.

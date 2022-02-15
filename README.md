@@ -7,6 +7,7 @@ This version of **Machine Maker** generates the following languages:
 * C++
 * C#
 * GDScript
+* Go
 * Java
 * JavaScript
 * Python
