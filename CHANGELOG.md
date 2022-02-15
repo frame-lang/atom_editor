@@ -1,3 +1,7 @@
+## 0.5.0 - Go is added as target
+  * Go Lang is added as a target option.
+  * Transpiler version 0.7.5 is added.
+
 ## 0.4.2 - Bug fixed: Handle file names with space(s)
   * Handled the case where the frame spec has single or multiple space in it.
 

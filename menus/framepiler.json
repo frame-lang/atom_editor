@@ -35,6 +35,10 @@
           {
             "label": "Rust",
             "command": "frame-machine-maker:Rust"
+          },
+          {
+            "label": "Go",
+            "command": "frame-machine-maker:Go"
           }
         ]
       }
@@ -78,6 +82,10 @@
             {
               "label": "Rust",
               "command": "frame-machine-maker:Rust"
+            },
+            {
+              "label": "Go",
+              "command": "frame-machine-maker:Go"
             }
           ]
         }
