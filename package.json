@@ -1,7 +1,7 @@
 {
   "name": "frame-machine-maker",
   "main": "./lib/frame-machine-maker",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Frame is a simple yet powerful system specification language for defining the dynamic behavior of systems. With Frame notation it is easy to quickly design state machines that comply with core UML statechart concepts through a decidedly advantageous new approach.",
   "keywords": [],
   "repository": "https://github.com/frame-lang/atom_editor",
