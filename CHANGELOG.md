@@ -1,3 +1,5 @@
+## 0.6.0 - Integrate new transpiler version 0.9.0
+ * Added new transpiler version 0.9.0
 ## 0.5.1 - Arranged target options alphabetically
   * Rearranged target options
 
