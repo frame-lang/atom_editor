@@ -1,3 +1,7 @@
+## 0.7.1 - Bug fixed
+  * Fixed golang deepcopy issue for compartment in stack history
+  * Fixed type hint for compartment instance
+  
 ## 0.7.0 - Integrate new transpiler version 0.10.0
   * Added new transpiler version 0.10.0
 ## 0.6.0 - Integrate new transpiler version 0.9.0
